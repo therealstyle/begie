@@ -1,0 +1,5 @@
+let config = [
+    CONFIG_VERSION: @number
+    CONFIG_PROJECT_NAME: @string
+]
+
